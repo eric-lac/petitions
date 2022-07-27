@@ -1,12 +1,12 @@
 # We The People petitions application
 
-Drupal 7 code base used to build an application that lets users create and sign petitions.
+The Drupal 7 code base is used to build an application that lets users create and sign petitions.
 
 This application is under active development and will continue to be modified and improved over time. The current release is an "alpha." (see “Roadmap” section below).
 
 ## Goals
 
-President Obama is committed to creating the most open and participatory government in our nation’s history, and this petitioning platform is a key part of that initiative. In September, 2011, the White House launched [We the People](http://petitions.whitehouse.gov), a powerful and simple way to petition the Obama Administration to take action on a range of issues. If a petition gathers a minimum number of signatures in a defined amount of time, policy officials review it and publish an official response.
+President Obama is committed to creating the most open and participatory government in our nation’s history, and this petitioning platform is a key part of that initiative. In September 2011, the White House launched [We the People](http://petitions.whitehouse.gov), a powerful and simple way to petition the Obama Administration to take action on a range of issues. If a petition gathers a minimum number of signatures in a defined amount of time, policy officials review it and publish an official response.
 
 *Among our commitments, we’re launching a new online tool -- called “We the People” -- to allow Americans to directly petition the White House, and we’ll share that technology so any government in the world can enable its citizens to do the same.*
 
@@ -32,7 +32,7 @@ Visitors can sign petitions. Petitions that receive a designated number of signa
 
 For installation instructions, see INSTALL.md.
 
-NOTE: Setting up the application and configuring it for use in your organization’s context requires Drupal development experience. The application ships with a similar design (theme) to what is used on petitions.whitehouse.gov and needs to be customized for use by others using standard Drupal 7 themeing conventions. The application also ships with various user interface elements, user account settings, and other configurations that users should expect to customize using standard Drupal 7 techniques and conventions.
+NOTE: Setting up the application and configuring it for use in your organization’s context requires Drupal development experience. The application ships with a similar design (theme) to what is used on petitions.whitehouse.gov and needs to be customized for use by others using standard Drupal 7 theming conventions. The application also ships with various user interface elements, user account settings, and other configurations that users should expect to customize using standard Drupal 7 techniques and conventions.
 
 ## Roadmap
 
@@ -42,7 +42,7 @@ The following descriptions are for informational purposes only and should not be
 
 *Install Profile*
 
-The codebase is released as-is and currently supports a specific, standalone website. In the future we would like to provide an install profile that supports a wider range of applications.
+The codebase is released as-is and currently supports a specific, standalone website. In the future, we would like to provide an install profile that supports a wider range of applications.
 
 *Generic Theme*
 
@@ -50,13 +50,13 @@ The current codebase replicates the theme used on the White House website. In th
 
 *Improved Social Media Integration*
 
-The current platform allows basic sharing of petitions, responses and other content on the site via social media platforms like Facebook and Twitter. In the future, we would like reduce the friction of signing a petition by making it possible to sign a petition in the context of a social network (e.g. by “liking” an object on facebook).
+The current platform allows basic sharing of petitions, responses, and other content on the site via social media platforms like Facebook and Twitter. In the future, we would like to reduce the friction of signing a petition by making it possible to sign a petition in the context of a social network (e.g. by “liking” an object on Facebook).
 
 ## Contributing
 
 Anyone is encouraged to contribute to the project by [forking](https://help.github.com/articles/fork-a-repo) and submitting a pull request. (If you are new to GitHub, you might start with a [basic tutorial](https://help.github.com/articles/set-up-git).)
 
-By contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the [Gnu General Public License v2](http://www.gnu.org/licenses/gpl-2.0.html) or later.
+By contributing to this project, you grant a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the [Gnu General Public License v2](http://www.gnu.org/licenses/gpl-2.0.html) or later.
 
 All comments, messages, pull requests, and other submissions received through official White House pages including this GitHub page are subject to the Presidential Records Act and may be archived. Learn more http://WhiteHouse.gov/privacy
 
